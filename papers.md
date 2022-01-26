@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Accepted Papers
-permalink: /schedule/
+permalink: /papers/
 ---
 
 ## Contributed talks
