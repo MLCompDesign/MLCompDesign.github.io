@@ -4,9 +4,9 @@ title: Tentative schedule
 permalink: /schedule/
 ---
 
-
-| Introduction Welcome | 8:00-8:15 |
+| Activity | Time |
 | :-------------------- | ---------: |
+| Introduction Welcome | 8:00-8:15 |
 | Invited Research Talks 1 | 8:15-9:05 |
 | Invited Industry Talks 1 | 9:05-9:25 |
 | Posters and Demos | 9:25-9:55 |
