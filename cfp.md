@@ -32,4 +32,4 @@ We look forward to reading your papers and seeing you at ICML 2022 in Baltimore!
 
 Sincerely, The Organizers
 
-Lydia Chilton (Columbia University), Rafael Gomez-Bombarelli (MIT), Wengong Jin (Broad Institute), Vladimir Kim (Adobe), Caitlin Mueller (MIT), Daniel Ritchie (Brown University), Andrew Spielberg (Harvard University)
+Lydia Chilton, Rafael Gomez-Bombarelli, Wengong Jin, Vladimir Kim, Caitlin Mueller, Daniel Ritchie, Andrew Spielberg
