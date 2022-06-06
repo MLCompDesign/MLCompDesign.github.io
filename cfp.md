@@ -21,9 +21,8 @@ Those interested in presenting in the Software Demos will present software in de
 Those interested in presenting in the Design Demos will present physical or virtual artifacts of items designed using machine learning.  If the designed object is not suitable to be presented (e.g. if it is a large building or a biological specimen), a virtual representation can be presented.  We are excited to see designs that span the gamut of art, design, and engineering.  Interested participants should submit a 1-page description of the item and how it was made, along with photos or other visual documentation.
 
 Please take note of the following timeline and deadlines:
-* June 4th - Submission deadline, to be presented as fast-forwards and posters
-* June 6th - Notification of acceptance
-* June 17th - Poster slides and fast-forward talk video uploads due for accepted submission (for poster track)
+* June 13th - Submission deadline. Paper acceptance will be notified in the following week
+* July 1st - Contributed talks and poster videos uploaded to Slideslive
 * July 22nd - Date of the workshop
 
 Applicants should submit their paper on https://cmt3.research.microsoft.com/MLCD2022/
