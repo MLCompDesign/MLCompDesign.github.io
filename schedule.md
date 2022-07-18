@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Tentative schedule
+title: Schedule
 permalink: /schedule/
 ---
 
 | Activity | Time |
-| :-------------------- | ---------: |
+| :----------------------- | ----------------: |
 | Welcome and Intro | 9:00 |
 | Keynote: Adriana Schulz (University of Washington) | 9:00-9:25 |
 | Keynote: Karl DD Willis (Autodesk) | 9:25-9:40 |
