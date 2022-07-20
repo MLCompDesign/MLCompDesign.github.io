@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+If you want to join virtually, please use the zoom link listed here: https://icml.cc/virtual/2022/workshop/13459
+
 | Activity | Time |
 | :----------------------- | ----------------: |
 | Welcome and Intro | 9:00 |
